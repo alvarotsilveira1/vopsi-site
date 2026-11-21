@@ -1,0 +1,6 @@
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,sans-serif;color:#1c2430;background:#f5f7fa;line-height:1.6}
+header{background:linear-gradient(135deg,#1a345c,#2b518e);color:#fff;padding:48px 24px}
+.w{max-width:760px;margin:0 auto}h1{margin:0;font-size:2.2rem;letter-spacing:-.5px}header p{margin:8px 0 0;opacity:.85}
+main{padding:32px 24px}.card{background:#fff;border-radius:14px;padding:24px 28px;margin-bottom:20px;box-shadow:0 1px 3px rgba(0,0,0,.06)}
+h2{font-size:1.2rem;margin:0 0 8px}h3{font-size:1rem;margin:20px 0 4px}a{color:#2b518e}
+footer{text-align:center;color:#6b7684;font-size:.85rem;padding:24px}
